@@ -53,3 +53,7 @@ Logistic Regression model built successfully.
 Achieved accuracy around XX% (replace with your result).
 
 Precision, Recall, and F1-score are analyzed for better understanding.
+
+
+
+*KAGGLE* : https://www.kaggle.com/code/devadharshinirr/logistic-regression/edit
