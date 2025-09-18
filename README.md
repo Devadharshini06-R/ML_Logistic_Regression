@@ -6,6 +6,7 @@ The implementation of Logistic regression for solving a classification problem u
 
 The dataset contains both categorical and numerical features which are preprocessed before applying the logistic regression model 
 
+---
 
 ### 🛠️ Steps in Notebook
 
@@ -45,6 +46,7 @@ Confusion Matrix Heatmap
 
 Decision Boundary (for 2D features)
 
+---
 
 ### 📊 Results
 
